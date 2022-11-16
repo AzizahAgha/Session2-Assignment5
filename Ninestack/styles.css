@@ -12,7 +12,7 @@ body{
 
 /*--------------------------------Header-----------------------*/
 nav{
-    width: 71%;
+    width: 100%;
     justify-content: space-evenly;
    
 }
@@ -57,13 +57,15 @@ background-color: #fff;
     font-weight: 500;
     white-space:nowrap;
     font-size: 16px;
+     padding-right: 190px;
+    padding-left: 100px;
 }
 
    
     
 
 .nav-item{
-    padding: 0px 13px;
+    padding: 0px 30px;
     font-size: 16px;
     display: flex;
 }
